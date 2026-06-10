@@ -1,4 +1,4 @@
-# 
+# Instant Cat vs Dog Classifier with PyTorch and Streamlit templates. Featuring edge-AI and image-recognition — optimized for maximum performance.
 
 
 
